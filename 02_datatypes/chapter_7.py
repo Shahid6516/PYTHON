@@ -12,3 +12,6 @@ print(f"Ratio is G :{ginger_ratio} and C: {cadramom_ratio}")
 # membership testing
 
 print(f"Is cinnamon in masala spices ? {'cinnamon' in masala_spices}")
+
+
+
