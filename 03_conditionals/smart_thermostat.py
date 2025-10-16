@@ -8,3 +8,5 @@ if device_status == "active":
         print("Temperature is normal")
 else:
     print("Device is offline")
+
+
