@@ -8,3 +8,4 @@ elif cup == "large":
     print("Your tea price is 30₹")
 else:
     print("Invalid cup size")
+
